@@ -1,0 +1,450 @@
+<svg width="950" height="1650"
+xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="950" height="1050" rx="18" fill="#0d1117"/>
+
+
+<!-- Terminal Header -->
+<rect width="950" height="48" rx="18" fill="#161b22"/>
+<rect y="32" width="950" height="16" fill="#161b22"/>
+
+<circle cx="28" cy="24" r="7" fill="#ff5f56"/>
+<circle cx="55" cy="24" r="7" fill="#ffbd2e"/>
+<circle cx="82" cy="24" r="7" fill="#27c93f"/>
+
+<text x="475" y="30"
+fill="#8b949e"
+font-size="16"
+font-family="monospace"
+text-anchor="middle">
+harshith@mahindra-uni:~$ neofetch HARSHITH_OS
+</text>
+
+
+<!-- Boot Sequence -->
+
+<text x="45" y="95"
+fill="#39ff14"
+font-size="18"
+font-family="monospace">
+&gt; initializing developer environment...
+</text>
+
+<text x="45" y="125"
+fill="#39ff14"
+font-size="16"
+font-family="monospace">
+[████████████████████] SYSTEM ONLINE
+</text>
+
+
+
+<!-- USER PROFILE -->
+
+<text x="45" y="185"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+USER_PROFILE
+</text>
+
+
+<text x="45" y="225"
+fill="#c9d1d9"
+font-family="monospace">
+NAME        : Harshith Chegondi
+</text>
+
+<text x="45" y="255"
+fill="#c9d1d9"
+font-family="monospace">
+ROLE        : B.Tech AI Student | ML Engineer
+</text>
+
+<text x="45" y="285"
+fill="#c9d1d9"
+font-family="monospace">
+UNIVERSITY  : Mahindra University
+</text>
+
+<text x="45" y="315"
+fill="#c9d1d9"
+font-family="monospace">
+DEGREE      : Artificial Intelligence
+</text>
+
+<text x="45" y="345"
+fill="#c9d1d9"
+font-family="monospace">
+GPA         : 9.21 / 10.0
+</text>
+
+
+
+<!-- SYSTEM ARCHITECTURE -->
+
+<text x="530" y="185"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+SYSTEM_ARCHITECTURE
+</text>
+
+
+<text x="530" y="225"
+fill="#c9d1d9"
+font-family="monospace">
+Primary:
+</text>
+
+<text x="650" y="225"
+fill="#39ff14"
+font-family="monospace">
+Machine Learning
+</text>
+
+
+<text x="530" y="260"
+fill="#c9d1d9"
+font-family="monospace">
+Backend:
+</text>
+
+<text x="650" y="260"
+fill="#39ff14"
+font-family="monospace">
+Django + DRF
+</text>
+
+
+<text x="530" y="295"
+fill="#c9d1d9"
+font-family="monospace">
+Frontend:
+</text>
+
+<text x="650" y="295"
+fill="#39ff14"
+font-family="monospace">
+React + RN
+</text>
+
+
+<text x="530" y="330"
+fill="#c9d1d9"
+font-family="monospace">
+Database:
+</text>
+
+<text x="650" y="330"
+fill="#39ff14"
+font-family="monospace">
+PostgreSQL
+</text>
+
+
+<text x="530" y="365"
+fill="#c9d1d9"
+font-family="monospace">
+Infrastructure:
+</text>
+
+<text x="700" y="365"
+fill="#39ff14"
+font-family="monospace">
+REST + JWT
+</text>
+
+<!-- CORE MODULES -->
+
+<text x="45" y="430"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+CORE_MODULES
+</text>
+
+
+<text x="45" y="470"
+fill="#c9d1d9"
+font-family="monospace">
+Languages:
+</text>
+
+<text x="220" y="470"
+fill="#39ff14"
+font-family="monospace">
+Python | TypeScript | C
+</text>
+
+
+<text x="45" y="505"
+fill="#c9d1d9"
+font-family="monospace">
+Frameworks:
+</text>
+
+<text x="220" y="505"
+fill="#39ff14"
+font-family="monospace">
+Django | DRF | React
+</text>
+
+
+<text x="45" y="540"
+fill="#c9d1d9"
+font-family="monospace">
+ML Stack:
+</text>
+
+<text x="220" y="540"
+fill="#39ff14"
+font-family="monospace">
+Scikit-Learn | NumPy
+</text>
+
+
+<text x="220" y="570"
+fill="#39ff14"
+font-family="monospace">
+Pandas | SciPy | NLTK
+</text>
+
+
+<text x="45" y="605"
+fill="#c9d1d9"
+font-family="monospace">
+Tools:
+</text>
+
+<text x="220" y="605"
+fill="#39ff14"
+font-family="monospace">
+Git | Linux | Jupyter
+</text>
+
+
+
+<!-- RUNNING PROCESSES -->
+
+<text x="45" y="680"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+RUNNING_PROCESSES
+</text>
+
+
+
+<!-- VectorTrade -->
+
+<text x="45" y="725"
+fill="#39ff14"
+font-family="monospace">
+VectorTrade.exe
+</text>
+
+<text x="300" y="725"
+fill="#c9d1d9"
+font-family="monospace">
+Algorithmic trading simulator
+</text>
+
+<text x="300" y="750"
+fill="#8b949e"
+font-family="monospace">
+Random Forest + LP Optimization
+</text>
+
+<text x="300" y="775"
+fill="#8b949e"
+font-family="monospace">
+15.9% simulated AAPL return
+</text>
+
+
+
+<!-- Hecho -->
+
+<text x="45" y="825"
+fill="#39ff14"
+font-family="monospace">
+Hecho.exe
+</text>
+
+<text x="300" y="825"
+fill="#c9d1d9"
+font-family="monospace">
+Communication platform backend
+</text>
+
+<text x="300" y="850"
+fill="#8b949e"
+font-family="monospace">
+REST APIs + JWT + RBAC
+</text>
+
+<text x="300" y="875"
+fill="#8b949e"
+font-family="monospace">
+Django + PostgreSQL
+</text>
+
+
+
+<!-- SMSift -->
+
+<text x="45" y="925"
+fill="#39ff14"
+font-family="monospace">
+SMSift.exe
+</text>
+
+<text x="300" y="925"
+fill="#c9d1d9"
+font-family="monospace">
+NLP classification engine
+</text>
+
+<text x="300" y="950"
+fill="#8b949e"
+font-family="monospace">
+TF-IDF + Logistic Regression
+</text>
+
+<text x="300" y="975"
+fill="#8b949e"
+font-family="monospace">
+Macro F1 Score: 0.96
+</text>
+
+<!-- HExpense -->
+
+<text x="45" y="1025"
+fill="#39ff14"
+font-family="monospace">
+HExpense.exe
+</text>
+
+<text x="300" y="1025"
+fill="#c9d1d9"
+font-family="monospace">
+C systems programming project
+</text>
+
+<!-- SYSTEM LOGS -->
+
+<text x="45" y="1240"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+SYSTEM_LOGS
+</text>
+
+
+<text x="45" y="1285"
+fill="#c9d1d9"
+font-family="monospace">
+[✓] AI Merit Scholarship
+</text>
+
+<text x="300" y="1285"
+fill="#8b949e"
+font-family="monospace">
+Top 10% AI Cohort
+</text>
+
+
+<text x="45" y="1320"
+fill="#c9d1d9"
+font-family="monospace">
+[✓] Full-stack Development
+</text>
+
+<text x="300" y="1320"
+fill="#8b949e"
+font-family="monospace">
+ML + Backend Applications
+</text>
+
+
+
+<!-- CONTACT MODULE -->
+
+<text x="45" y="1385"
+fill="#58a6ff"
+font-family="monospace"
+font-size="18">
+CONTACT_MODULE
+</text>
+
+
+<text x="45" y="1430"
+fill="#c9d1d9"
+font-family="monospace">
+EMAIL:
+</text>
+
+<text x="220" y="1430"
+fill="#39ff14"
+font-family="monospace">
+chegondiharshith@gmail.com
+</text>
+
+
+<text x="45" y="1465"
+fill="#c9d1d9"
+font-family="monospace">
+GITHUB:
+</text>
+
+<text x="220" y="1465"
+fill="#39ff14"
+font-family="monospace">
+github.com/HarshithCheg
+</text>
+
+
+<text x="45" y="1500"
+fill="#c9d1d9"
+font-family="monospace">
+LINKEDIN:
+</text>
+
+<text x="220" y="1500"
+fill="#39ff14"
+font-family="monospace">
+linkedin.com/in/harshithchegondi
+</text>
+
+
+
+<!-- FOOTER -->
+
+<line x1="45"
+y1="1545"
+x2="905"
+y2="1545"
+stroke="#30363d"/>
+
+
+<text x="45"
+y="1590"
+fill="#39ff14"
+font-family="monospace">
+
+harshith@mahindra-uni:~$
+
+</text>
+
+
+<text x="390"
+y="1590"
+fill="#c9d1d9"
+font-family="monospace">
+_
+</text>
+
+
+</svg>
