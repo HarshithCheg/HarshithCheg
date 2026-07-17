@@ -1,13 +1,9 @@
 <svg width="950" height="1450" viewBox="0 0 950 1450" xmlns="http://w3.org">
   <defs>
-    <!-- Garuda Dr460nized Neon Gradients -->
+    <!-- Garuda Dr460nized Neon Scheme Background Gradients -->
     <linearGradient id="garudaHeader" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#141926" />
       <stop offset="100%" stop-color="#1b1026" />
-    </linearGradient>
-    <linearGradient id="neonText" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff007f" />
-      <stop offset="100%" stop-color="#7928ca" />
     </linearGradient>
   </defs>
 
@@ -27,7 +23,10 @@
 
   <!-- Boot Sequence -->
   <text x="45" y="95" fill="#f6a73b" font-size="18" font-family="monospace">&gt; initializing HARSHITH_OS kernel...</text>
-  <text x="45" y="125" fill="#eb3247" font-size="16" font-family="monospace">[████████████████████] SYSTEM ONLINE</text>
+  
+  <!-- Replaced string loading bars with pure scalable paths to fix string render errors -->
+  <text x="45" y="125" fill="#eb3247" font-size="16" font-family="monospace">[                    ] SYSTEM ONLINE</text>
+  <rect x="57" y="113" width="155" height="13" fill="#eb3247" />
 
   <!-- USER PROFILE -->
   <text x="45" y="185" fill="#ff007f" font-family="monospace" font-size="18" font-weight="bold">USER_PROFILE</text>
@@ -98,7 +97,7 @@
 
   <!-- SYSTEM LOGS -->
   <text x="45" y="1120" fill="#ff007f" font-family="monospace" font-size="18" font-weight="bold">SYSTEM_LOGS</text>
-  <text x="45" y="1160" fill="#eec49a" font-family="monospace" font-size="15">[&#x2713;] AI Merit Scholarship</text>
+  <text x="45" y="1160" fill="#eec49a" font-family="monospace" font-size="15">[ok] AI Merit Scholarship</text>
   <text x="320" y="1160" fill="#a6896b" font-family="monospace" font-size="15">Top 10% AI Cohort</text>
   <text x="45" y="1195" fill="#eec49a" font-family="monospace" font-size="15">[garuda-update] Full-stack</text>
   <text x="320" y="1195" fill="#a6896b" font-family="monospace" font-size="15">ML + Backend Applications</text>
@@ -118,5 +117,7 @@
   <!-- FOOTER -->
   <line x1="45" y1="1395" x2="905" y2="1395" stroke="#1b1026"/>
   <text x="45" y="1425" fill="#f6a73b" font-family="monospace" font-size="15">harshith@garuda:~$</text>
-  <text x="220" y="1425" fill="#eec49a" font-family="monospace" font-size="15">█</text>
+  
+  <!-- Terminal cursor element engineered using clean shape pathing -->
+  <rect x="220" y="1412" width="12" height="16" fill="#eec49a" />
 </svg>
