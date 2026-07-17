@@ -2,8 +2,7 @@
 xmlns="http://www.w3.org/2000/svg">
 
 <!-- Background -->
-<rect width="950" height="1050" rx="18" fill="#0d1117"/>
-
+<rect width="950" height="1450" rx="18" fill="#0d1117"/>
 
 <!-- Terminal Header -->
 <rect width="950" height="48" rx="18" fill="#161b22"/>
@@ -335,7 +334,7 @@ C systems programming project
 
 <!-- SYSTEM LOGS -->
 
-<text x="45" y="1060"
+<text x="45" y="1090"
 fill="#58a6ff"
 font-family="monospace"
 font-size="18">
@@ -343,26 +342,26 @@ SYSTEM_LOGS
 </text>
 
 
-<text x="45" y="1105"
+<text x="45" y="1135"
 fill="#c9d1d9"
 font-family="monospace">
 [✓] AI Merit Scholarship
 </text>
 
-<text x="300" y="1105"
+<text x="300" y="1135"
 fill="#8b949e"
 font-family="monospace">
 Top 10% AI Cohort
 </text>
 
 
-<text x="45" y="1140"
+<text x="45" y="1170"
 fill="#c9d1d9"
 font-family="monospace">
 [✓] Full-stack Development
 </text>
 
-<text x="300" y="1140"
+<text x="300" y="1170"
 fill="#8b949e"
 font-family="monospace">
 ML + Backend Applications
