@@ -100,10 +100,10 @@
   <text x="180" y="1295" fill="#fad32f" font-family="monospace" font-size="15">chegondiharshith@gmail.com</text>
 
   <text x="45" y="1325" fill="#eec49a" font-family="monospace" font-size="15">GITHUB:</text>
-  <text x="180" y="1325" fill="#fad32f" font-family="monospace" font-size="15">:https://github.com/HarshithCheg</text>
+  <text x="180" y="1325" fill="#fad32f" font-family="monospace" font-size="15">https://github.com/HarshithCheg</text>
 
   <text x="45" y="1355" fill="#eec49a" font-family="monospace" font-size="15">LINKEDIN:</text>
-  <text x="180" y="1355" fill="#fad32f" font-family="monospace" font-size="15">:www.linkedin.com/in/harshithchegondi</text>
+  <text x="180" y="1355" fill="#fad32f" font-family="monospace" font-size="15">www.linkedin.com/in/harshithchegondi</text>
 
   <!-- FOOTER -->
   <line x1="45" y1="1395" x2="905" y2="1395" stroke="#1b1026"/>
